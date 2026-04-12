@@ -426,7 +426,7 @@ response.setCharacterEncoding("UTF-8");
 <body>
     <div class="container">
         <div class="header">
-            <div class="logo">3TIER BOARD</div>
+            <div class="logo">3티어 게시판</div>
             <h1>게시판 목록</h1>
             <div class="system-info">
                 <div class="info-item">
